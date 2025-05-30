@@ -1,0 +1,14 @@
+C:\Users\ACER NITRO\Documents\SkintificStore\bin\Debug\net9.0\SkintificStore.exe
+C:\Users\ACER NITRO\Documents\SkintificStore\bin\Debug\net9.0\SkintificStore.deps.json
+C:\Users\ACER NITRO\Documents\SkintificStore\bin\Debug\net9.0\SkintificStore.runtimeconfig.json
+C:\Users\ACER NITRO\Documents\SkintificStore\bin\Debug\net9.0\SkintificStore.dll
+C:\Users\ACER NITRO\Documents\SkintificStore\bin\Debug\net9.0\SkintificStore.pdb
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.AssemblyInfo.cs
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.dll
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\refint\SkintificStore.dll
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.pdb
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\SkintificStore.genruntimeconfig.cache
+C:\Users\ACER NITRO\Documents\SkintificStore\obj\Debug\net9.0\ref\SkintificStore.dll
