@@ -125,7 +125,7 @@ __________________________________________________________
 
 Menu Utama
 🖼️ Screenshot Interface
-![alt text](image.png)
+
 ==============================================
      CISYA IRAFITRAH - SKINTIFIC STORE
         APLIKASI PENJUALAN SEDERHANA
